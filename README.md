@@ -1,6 +1,6 @@
 ## Iqui coin contract
 
-Utility token for the iQuicoin project. IQUI is a site created for cloud storage users all over the world. With an easy-to-use and compact page that contains online storage space, any user can create their own interface to minimize data and files, while taking advantage of a wide range of features from the site with minimal subscription costs.
+Utility token for the iQuicoin project. IQUI is a site created for cloud storage users all over the world. With an easy-to-use and compact page that contains online storage space, any user can create their own interface to save data and files, while taking advantage of a wide range of features from the site with minimal subscription costs.
 
 ## Deployment
 
